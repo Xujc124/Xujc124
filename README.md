@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gavin Xu</h1>
 <h3 align="center">An AI dreamer, coder and travel lover.</h3>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=500&random=false&width=435&lines=Life+is+good...;Let's+go+fishing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img aligh="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=500&random=false&width=435&lines=Life+is+good...;Let's+go+fishing!" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
