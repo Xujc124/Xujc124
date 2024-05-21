@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gavin Xu</h1>
 <h3 align="center">An AI dreamer, coder and travel lover.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xujc124&label=Profile%20views&color=0e75b6&style=flat" alt="xujc124" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=500&random=false&width=435&lines=Life+is+good...;Let's+go+fishing!" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,3 +13,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xujc124&show_icons=true&locale=en" alt="xujc124" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xujc124&" alt="xujc124" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xujc124&label=Profile%20views&color=0e75b6&style=flat" alt="xujc124" /> </p>
